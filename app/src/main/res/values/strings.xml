@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">LayoutAssignment</string>
+    <string name="scan_chip">Scan</string>
+    <string name="top_up_chip">Top Up</string>
+    <string name="send_chip">Send</string>
+    <string name="request_chip">Request</string>
+    <string name="pulsa_amp_data"><![CDATA[Pulsa & Data]]></string>
+    <string name="bonus_pulsa_50">Bonus pulsa 50%</string>
+    <string name="buy_now">BUY NOW</string>
+    <string name="invoice">INVOICE</string>
+    <string name="calculate_total_btn">calculate total</string>
+    <string name="_00_00">00.00</string>
+    <string name="dollar_symbol">$</string>
+    <string name="text_electric">Electric</string>
+    <string name="text_cashout">Cashout</string>
+    <string name="text_games">Games</string>
+    <string name="text_seeAll">See All</string>
+    <string name="text_noDiscount">No Discount</string>
+    <string name="text_discount">Discount</string>
+    <string name="total_amount">$ 00.00</string>
+    <string name="desc_lightbulb">Image of Light bulb</string>
+    <string name="desc_cashout">Image of Dollar Sign</string>
+    <string name="desc_games">Image of D-Pad</string>
+    <string name="desc_seeMore">Image of Three Dots</string>
+    <string name="desc_phone">Image of Red Phone</string>
+    <string name="product_1">Product 01</string>
+    <string name="product_2">Product 02</string>
+    <string name="product_3">Product 03</string>
+    <string name="product_4">Product 04</string>
+</resources>
